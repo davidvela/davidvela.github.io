@@ -1,7 +1,6 @@
 # davidvela.github.io
 
-## Welcome to my github! 
-[Link](davidvela.github.io)
+[Welcome to my github!](davidvela.github.io)
 <br/>
 
 
