@@ -9,7 +9,7 @@
 ## To Do: 
 - HW4 model -- tfjs
 - bootstrap 
-- test
+- test2
 
 
 ## Resources 
