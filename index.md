@@ -9,5 +9,6 @@
 - Text Generation
 - Machine Translation
 - Face Generation: DCGAN 
+- POCs: NN, ML-
 
 
